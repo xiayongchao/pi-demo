@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+# Session data
+.pi-sessions/
+
+# Local config
+.pi/
+
+# OS
+.DS_Store
+*.local
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
