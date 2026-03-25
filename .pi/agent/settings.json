@@ -1,5 +1,0 @@
-{
-  "defaultProvider": "openai",
-  "defaultModel": "qwen-plus",
-  "defaultThinkingLevel": "off"
-}
